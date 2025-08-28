@@ -25,12 +25,12 @@ public class BeforeEncapsulation {
 	public static void main(String[] args) {
 		Human obj=new Human();
 		obj.setAge(12);
-		obj.setName("Neha");
+		obj.setName("Bindu");
 		System.out.println(obj.getAge());
 		System.out.println(obj.getName());
 		
 		obj.setAge(16);
-		obj.setName("hema");
+		obj.setName("Avyuu");
 		System.out.println(obj.getAge());
 		System.out.println(obj.getName());
 		
