@@ -1,6 +1,6 @@
 package interfacedemo;
 
-public class Student implements Registerable{
+public class Student {
 	private int id;
 	private String name;
 	private double fees;
